@@ -1,0 +1,1 @@
+Vea negris, hay que crear lo que es el registrar que envie el cliente a la base de datos y hacer su conexión obviamentre con la base de datos. También hay que poner su buscar, mejor el buscar y que lo pueda eliminar por completo también, solo sería eso
